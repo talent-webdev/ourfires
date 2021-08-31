@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="109px" viewBox="0 0 118 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill-1-Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.1132075,12.9130435 L38,0 L45.8867925,12.9130435 L30.1132075,12.9130435 Z M7.88679245,53.0869565 L15.7735849,66 L0,66 L7.88679245,53.0869565 Z M68.1132075,53.0869565 L76,66 L60.2264151,66 L68.1132075,53.0869565 Z" id="path-1"></path>
+        <filter x="-45.5%" y="-52.8%" width="191.0%" height="202.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.775749362   0 0 0 0 0.144079356   0 0 0 0 0.143876652  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-3" transform="translate(-581.000000, -151.000000)" fill-rule="nonzero">
+            <g id="ourfires_logo" transform="translate(602.000000, 172.000000)">
+                <g id="Fill-1-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
