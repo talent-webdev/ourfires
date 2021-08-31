@@ -2,7 +2,7 @@ import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 import { Global, css } from "@emotion/react";
 //
-import TopBar from "./Topbar.js";
+import TopBar from "./topbar.js";
 import Footer from "./Footer.js";
 
 // *** GLOBAL STYLES ***
